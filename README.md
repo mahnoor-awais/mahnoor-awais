@@ -22,8 +22,8 @@ Currently balancing studies with a corporate job (yes, chaos but make it product
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,flutter,dart,tailwind,vite,sqlite" /><br><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,github,vscode,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,tailwind,vite,sqlite,apple" /><br><br><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs," /><br><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,github,vscode,figma,notion" />
 </p>
 
 <p align="center">
