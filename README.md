@@ -9,7 +9,7 @@
 
 ### 🌸 About Me
 
-Hey! I’m Mahnoor — a school student by books, a dev by passion, and a creator by energy.  
+Hey! I’m Mahnoor, a school student by books, a dev by passion, and a creator by energy.  
 Currently balancing studies with a corporate job (yes, chaos but make it productive 🔥).
 
 - 🧠 Obsessed with building useful stuff — whether it’s automation scripts, desktop GUIs, or mobile apps  
@@ -50,4 +50,4 @@ Currently balancing studies with a corporate job (yes, chaos but make it product
 
 ---
 
-<p align="center"><i>"Forever curious, forever building — one line of code at a time."</i></p>
+<p align="center"><i>"See you in the next commit."</i></p>
