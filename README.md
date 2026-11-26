@@ -1,4 +1,4 @@
-# ✨ Mahnoor Awais
+<h1 align="center" >✨Mahnoor Awais</h1> 
 
 <p align="center">
   <b>Full-Stack Developer | Student | Builder</b>
